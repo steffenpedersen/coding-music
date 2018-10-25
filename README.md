@@ -1,2 +1,3 @@
-# coding-music
-🎧 A list of music for coding
+# Coding Music
+
+This is a list of music for coding 🎧
