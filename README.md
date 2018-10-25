@@ -6,6 +6,12 @@ What is good coding music? Music without any voices 🎤 Mostly focusing on play
 
 ## Classic
 
+| Name           | Artist  | Type     | Link                      |
+|----------------|---------|----------|---------------------------|
+| Peaceful Piano | Various | Playlist | [Spotify][peaceful-piano] |
+
+[peaceful-piano]: https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX4sWSpwq3LiO?si=2CrSEIzpQu-bKQKdEUxdaA 
+
 ## Lofi Hip Hop
 
 | Name      | Artist  | Type     | Link                 |
