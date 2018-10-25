@@ -8,6 +8,12 @@ What is good coding music? Music without any voices 🎤 Mostly focusing on play
 
 ## Lofi Hip Hop
 
+| Name      | Artist  | Type     | Link                 |
+|-----------|---------|----------|----------------------|
+| Lush Lofi | Various | Playlist | [Spotify][lush-lofi] |
+
+[lush-lofi]: https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXc8kgYqQLMfH?si=bvFe73N9Tv6I4cchw7Z4nA
+
 ## Retrowave
 
 | Name               | Artist  | Type     | Link                        |
