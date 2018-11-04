@@ -16,8 +16,10 @@ What is good coding music? Music without any voices 🎤 Mostly focusing on play
 
 | Name      | Artist  | Type     | Link                 |
 |-----------|---------|----------|----------------------|
+| Chill Study Beats 5 | Various | Playlist | [YouTube][chill-study] |
 | Lush Lofi | Various | Playlist | [Spotify][lush-lofi] |
 
+[chill-study]: https://www.youtube.com/watch?v=yUpl_HQrBnM
 [lush-lofi]: https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXc8kgYqQLMfH?si=bvFe73N9Tv6I4cchw7Z4nA
 
 ## Retrowave/Vaporwave
