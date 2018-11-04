@@ -20,12 +20,14 @@ What is good coding music? Music without any voices 🎤 Mostly focusing on play
 
 [lush-lofi]: https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXc8kgYqQLMfH?si=bvFe73N9Tv6I4cchw7Z4nA
 
-## Retrowave
+## Retrowave/Vaporwave
 
-| Name               | Artist  | Type     | Link                        |
-|--------------------|---------|----------|-----------------------------|
-| AESTHETIC FM       | Various | Playlist | [YouTube][aesthetic-fm]     |
-| RetroWave / Outrun | Various | Playlist | [Spotify][retrowave-outrun] |
+| Name                            | Artist  | Type     | Link                           |
+|---------------------------------|---------|----------|--------------------------------|
+| AESTHETIC FM                    | Various | Playlist | [YouTube][aesthetic-fm]        |
+| Regularly Scheduled Programming | Various | Playlist | [YouTube][regularly-scheduled] |
+| RetroWave / Outrun              | Various | Playlist | [Spotify][retrowave-outrun]    |
 
 [aesthetic-fm]: https://www.youtube.com/watch?v=MKx71DQ7giE
+[regularly-scheduled]: https://www.youtube.com/watch?v=K1iS-_EQMGE
 [retrowave-outrun]: https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXdLEN7aqioXM?si=8qhLGy5rQSuAhQ3cgSFnwg 
