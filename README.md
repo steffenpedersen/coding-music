@@ -26,12 +26,14 @@ What is good coding music? Music without any voices 🎤 Mostly focusing on play
 
 ## Retrowave (with subgenres)
 
-| Name                            | Artist  | Type     | Link                           |
-|---------------------------------|---------|----------|--------------------------------|
-| AESTHETIC FM                    | Various | Playlist | [YouTube][aesthetic-fm]        |
-| Regularly Scheduled Programming | Various | Playlist | [YouTube][regularly-scheduled] |
-| RetroWave / Outrun              | Various | Playlist | [Spotify][retrowave-outrun]    |
+| Name                                | Artist  | Type     | Link                           |
+|-------------------------------------|---------|----------|--------------------------------|
+| AESTHETIC FM                        | Various | Playlist | [YouTube][aesthetic-fm]        |
+| Palm Trees & Concrete Mixtape Vol.1 | Various | Playlist | [YouTube][palm-trees]          |
+| Regularly Scheduled Programming     | Various | Playlist | [YouTube][regularly-scheduled] |
+| RetroWave / Outrun                  | Various | Playlist | [Spotify][retrowave-outrun]    |
 
 [aesthetic-fm]: https://www.youtube.com/watch?v=MKx71DQ7giE
+[palm-trees]: https://www.youtube.com/watch?v=a9zvWR14KJQ
 [regularly-scheduled]: https://www.youtube.com/watch?v=K1iS-_EQMGE
 [retrowave-outrun]: https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXdLEN7aqioXM?si=8qhLGy5rQSuAhQ3cgSFnwg 
